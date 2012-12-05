@@ -1,6 +1,6 @@
-[submodule "wp"]
-	path = wp
-	url = git://github.com/WordPress/WordPress.git
 [submodule "WP-Stack"]
 	path = WP-Stack
 	url = git@github.com:brianfeister/WP-Stack.git
+[submodule "cms"]
+	path = cms
+	url = git://github.com/WordPress/WordPress.git
