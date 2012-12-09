@@ -4,3 +4,9 @@
 [submodule "cms"]
 	path = cms
 	url = git://github.com/WordPress/WordPress.git
+[submodule "content/themes/artsite_main"]
+	path = content/themes/artsite_main
+	url = git@github.com:brianfeister/artsitemain.git
+[submodule "content/themes/artsite_users"]
+	path = content/themes/artsite_users
+	url = git@github.com:brianfeister/artsiteusers.git
