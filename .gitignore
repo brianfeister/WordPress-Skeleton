@@ -4,3 +4,7 @@
 /db-sync
 /content/upgrade/
 .DS_Store
+/.htaccess
+/wp-content/uploads/
+/wp-content/blogs.dir/
+/wp-content/plugins/hello.php
