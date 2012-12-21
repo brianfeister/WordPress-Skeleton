@@ -10,3 +10,6 @@
 [submodule "content/themes/artsite_users"]
 	path = content/themes/artsite_users
 	url = git@github.com:brianfeister/artsiteusers.git
+[submodule "content/plugins/artsite-register"]
+	path = content/plugins/artsite-register
+	url = git@github.com:brianfeister/artsite-register.git
